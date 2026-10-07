@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661997591820",
+    "project_id": "mobile-cue-things",
+    "storage_bucket": "mobile-cue-things.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661997591820:android:b6cc4ce82cc11c7ef1bd29",
+        "android_client_info": {
+          "package_name": "com.example.mobile_cue_things"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxefWG2LWw-cSqoi5Bpyl8iFPap_f1qkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

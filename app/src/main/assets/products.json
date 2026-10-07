@@ -1,0 +1,554 @@
+[
+  {
+    "name": "Calculadora Casio FX-82MS",
+    "description": "Calculadora científica ideal para ingeniería y matemáticas.",
+    "price": 85000,
+    "imgUrl": "https://www.firplan.com/wp-content/uploads/2020/09/fx-82spx-copia.jpg",
+    "emailUser": "laura@gmail.com",
+    "category": "Calculadoras",
+    "condition": 7,
+    "brand": "Casio",
+    "createdAt": "2025-02-14"
+  },
+  {
+    "name": "Bata Antifluido Enfermería",
+    "description": "Bata médica resistente para prácticas clínicas.",
+    "price": 110000,
+    "imgUrl": "https://produserv.com.co/wp-content/uploads/2020/05/bata-quirurgica-desechable-antifluidos.jpg",
+    "emailUser": "christian09@gmail.com",
+    "category": "Uniformes",
+    "condition": 8,
+    "brand": "MedicWear",
+    "createdAt": "2025-01-22"
+  },
+  {
+    "name": "Libro Fundamentos de Física",
+    "description": "Libro esencial para cursos universitarios de física.",
+    "price": 160000,
+    "imgUrl": "https://www.ingebook.com/ib/pimg/Ingebook/00100_0000003310_6939.jpg",
+    "emailUser": "ana@gmail.com",
+    "category": "Libros",
+    "condition": 9,
+    "brand": "McGraw-Hill",
+    "createdAt": "2024-11-18"
+  },
+  {
+    "name": "Laptop Lenovo IdeaPad 3",
+    "description": "Computador portátil para tareas universitarias y programación.",
+    "price": 2000000,
+    "imgUrl": "https://media.falabella.com/sodimacCO/655840/public",
+    "emailUser": "maria@gmail.com",
+    "category": "Computadores",
+    "condition": 6,
+    "brand": "Lenovo",
+    "createdAt": "2025-02-01"
+  },
+  {
+    "name": "Impresora 3D Creality Ender 3",
+    "description": "Impresora 3D básica para proyectos académicos.",
+    "price": 1000000,
+    "imgUrl": "https://www.3dnatives.com/3d-materials/wp-content/uploads/sites/6/2020/12/creality_ender3_v2-600x600.jpeg",
+    "emailUser": "ana@gmail.com",
+    "category": "Impresoras 3D",
+    "condition": 5,
+    "brand": "Creality",
+    "createdAt": "2024-12-10"
+  },
+  {
+    "name": "Calculadora Texas Instruments TI-84 Plus",
+    "description": "Calculadora programable para ingeniería electrónica.",
+    "price": 380000,
+    "imgUrl": "https://m.media-amazon.com/images/I/71AQD8aCcxL.jpg",
+    "emailUser": "laura@gmail.com",
+    "category": "Calculadoras",
+    "condition": 9,
+    "brand": "Texas Instruments",
+    "createdAt": "2025-01-08"
+  },
+  {
+    "name": "Uniforme Médico Blanco",
+    "description": "Uniforme completo para estudiantes de medicina.",
+    "price": 120000,
+    "imgUrl": "https://casadelasbatas.com/25782-large_default/conjunto-sanitario-enfermeria-blanco-velilla-800.jpg",
+    "emailUser": "maria@gmail.com",
+    "category": "Uniformes",
+    "condition": 7,
+    "brand": "MedicWear",
+    "createdAt": "2025-02-10"
+  },
+  {
+    "name": "Libro Análisis de Circuitos - Boylestad",
+    "description": "Libro avanzado de teoría de circuitos eléctricos.",
+    "price": 150000,
+    "imgUrl": "https://images.cdn3.buscalibre.com/fit-in/360x360/72/21/7221ceeb2266bc647d5d5f479dd71e57.jpg",
+    "emailUser": "ana@gmail.com",
+    "category": "Libros",
+    "condition": 8,
+    "brand": "Pearson",
+    "createdAt": "2024-10-12"
+  },
+  {
+    "name": "Estación Total Topográfica",
+    "description": "Equipo profesional para prácticas de ingeniería civil.",
+    "price": 7800000,
+    "imgUrl": "https://bmprenta.cl/wp-content/uploads/2023/06/estacion-total-leica-ts07-8-1.png",
+    "emailUser": "christian09@gmail.com",
+    "category": "Equipos Ingeniería",
+    "condition": 7,
+    "brand": "Topcon",
+    "createdAt": "2025-02-20"
+  },
+  {
+    "name": "Laptop Dell Inspiron i5",
+    "description": "Computador portátil para estudiantes de ingeniería.",
+    "price": 2600000,
+    "imgUrl": "https://m.media-amazon.com/images/I/81tgnKK7+aS._AC_SL1500_.jpg",
+    "emailUser": "laura@gmail.com",
+    "category": "Computadores",
+    "condition": 8,
+    "brand": "Dell",
+    "createdAt": "2024-12-01"
+  },
+  {
+    "name": "Kit de Dibujo Técnico Profesional",
+    "description": "Herramientas para dibujo técnico universitario.",
+    "price": 65000,
+    "imgUrl": "https://tiendabacano.com/wp-content/uploads/2022/03/81Bz7oOdMoL._AC_SL1500_.jpg",
+    "emailUser": "ana@gmail.com",
+    "category": "Equipos Ingeniería",
+    "condition": 6,
+    "brand": "Staedtler",
+    "createdAt": "2025-01-19"
+  },
+  {
+    "name": "Libro Cálculo de Stewart",
+    "description": "Libro para cursos de cálculo diferencial e integral.",
+    "price": 190000,
+    "imgUrl": "https://images.cdn1.buscalibre.com/fit-in/360x360/83/3b/833b401cede30aa4eabd0e97f050df2b.jpg",
+    "emailUser": "christian09@gmail.com",
+    "category": "Libros",
+    "condition": 9,
+    "brand": "Cengage",
+    "createdAt": "2024-09-25"
+  },
+  {
+    "name": "Impresora 3D Elegoo Mars",
+    "description": "Impresora 3D de resina para proyectos detallados.",
+    "price": 1300000,
+    "imgUrl": "https://3dworldprinting.pe/wp-content/uploads/2024/04/3dworld-printing-venta-impresoras-3d-economicas-las-mejores-impresoras-nuevas-las-ultimas-impresoras-3d-venta-directa-Mars-4.jpg",
+    "emailUser": "maria@gmail.com",
+    "category": "Impresoras 3D",
+    "condition": 6,
+    "brand": "Elegoo",
+    "createdAt": "2025-02-05"
+  },
+  {
+    "name": "Bata Médica Premium",
+    "description": "Bata resistente para laboratorio y prácticas clínicas.",
+    "price": 95000,
+    "imgUrl": "https://dotamoda.com/wp-content/uploads/2024/04/7001-Bata-medica.png",
+    "emailUser": "laura@gmail.com",
+    "category": "Uniformes",
+    "condition": 5,
+    "brand": "MedicWear",
+    "createdAt": "2024-11-30"
+  },
+  {
+    "name": "Calculadora Casio FX-570ES Plus",
+    "description": "Modelo avanzado con funciones estadísticas.",
+    "price": 120000,
+    "imgUrl": "https://m.media-amazon.com/images/I/61HsuMAX8LL._AC_SL1500_.jpg",
+    "emailUser": "ana@gmail.com",
+    "category": "Calculadoras",
+    "condition": 8,
+    "brand": "Casio",
+    "createdAt": "2025-02-11"
+  },
+  {
+    "name": "Libro Análisis Estructural - Hibbeler",
+    "description": "Libro esencial para ingeniería civil.",
+    "price": 160000,
+    "imgUrl": "https://images.cdn3.buscalibre.com/fit-in/360x360/89/48/894867836e6d53f11efadb7dcc4f6f54.jpg",
+    "emailUser": "christian09@gmail.com",
+    "category": "Libros",
+    "condition": 7,
+    "brand": "Pearson",
+    "createdAt": "2024-10-25"
+  },
+  {
+    "name": "Laptop HP Pavilion 14",
+    "description": "Equipo portátil para uso académico general.",
+    "price": 2300000,
+    "imgUrl": "https://ultimainformatica.com/2299375-thickbox_default/hp-pavilion-14-ce0013ns-portatil-356-cm-14-full-hd-intel-core-i7-i7-8550u-8-gb-ddr4-sdram-256-gb-ssd-nvidia-geforce-mx150.jpg",
+    "emailUser": "maria@gmail.com",
+    "category": "Computadores",
+    "condition": 6,
+    "brand": "HP",
+    "createdAt": "2024-11-12"
+  },
+  {
+    "name": "Kit Arduino Starter",
+    "description": "Kit para proyectos electrónicos universitarios.",
+    "price": 90000,
+    "imgUrl": "https://www.turibot.es/images/thumbs/0058667_starter-kit-arduino-mega-2560-compatible-avanzado-en-caja-organizadora.jpeg",
+    "emailUser": "laura@gmail.com",
+    "category": "Equipos Ingeniería",
+    "condition": 7,
+    "brand": "Arduino",
+    "createdAt": "2025-01-05"
+  },
+  {
+    "name": "Libro Introducción a Java",
+    "description": "Libro para aprender programación desde cero.",
+    "price": 125000,
+    "imgUrl": "https://images.cdn2.buscalibre.com/fit-in/360x360/47/64/4764a77b3e2c9e3f0b45d247ba62b245.jpg",
+    "emailUser": "ana@gmail.com",
+    "category": "Libros",
+    "condition": 8,
+    "brand": "Pearson",
+    "createdAt": "2024-12-07"
+  },
+  {
+    "name": "Bata de Laboratorio Química",
+    "description": "Bata especial resistente a químicos.",
+    "price": 100000,
+    "imgUrl": "https://img.directindustry.es/images_di/photo-m2/7198-15636964.jpg",
+    "emailUser": "christian09@gmail.com",
+    "category": "Uniformes",
+    "condition": 6,
+    "brand": "LabProtect",
+    "createdAt": "2025-01-21"
+  },
+  {
+    "name": "Impresora 3D Anycubic i3 Mega",
+    "description": "Impresora 3D precisa para prototipos complejos.",
+    "price": 1300000,
+    "imgUrl": "https://www.dynamoelectronics.com/wp-content/uploads/2019/11/anycubic-s-co-compressor.png",
+    "emailUser": "maria@gmail.com",
+    "category": "Impresoras 3D",
+    "condition": 7,
+    "brand": "Anycubic",
+    "createdAt": "2024-11-02"
+  },
+  {
+    "name": "Calculadora TI-Nspire CX",
+    "description": "Calculadora graficadora de alto rendimiento.",
+    "price": 550000,
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/TI-nspire_CX.jpg",
+    "emailUser": "ana@gmail.com",
+    "category": "Calculadoras",
+    "condition": 8,
+    "brand": "Texas Instruments",
+    "createdAt": "2025-02-04"
+  },
+  {
+    "name": "Libro Anatomía de Gray",
+    "description": "Libro completo de anatomía humana.",
+    "price": 210000,
+    "imgUrl": "https://images.cdn1.buscalibre.com/fit-in/520x520/30/df/30dfae9e948fc84ad25e2ca896cff5c5.jpg",
+    "emailUser": "laura@gmail.com",
+    "category": "Libros",
+    "condition": 9,
+    "brand": "Elsevier",
+    "createdAt": "2024-10-01"
+  },
+  {
+    "name": "Uniforme Clínico Azul",
+    "description": "Uniforme de alta calidad para enfermería.",
+    "price": 115000,
+    "imgUrl": "https://majuauniformes.com/wp-content/uploads/2020/04/conjunto-medico-unisex.png",
+    "emailUser": "christian09@gmail.com",
+    "category": "Uniformes",
+    "condition": 7,
+    "brand": "MedicWear",
+    "createdAt": "2025-02-12"
+  },
+  {
+    "name": "Laptop ASUS VivoBook",
+    "description": "Computador con excelente relación costo-beneficio.",
+    "price": 2500000,
+    "imgUrl": "https://m.media-amazon.com/images/I/610qahaFqUL.jpg",
+    "emailUser": "maria@gmail.com",
+    "category": "Computadores",
+    "condition": 7,
+    "brand": "ASUS",
+    "createdAt": "2024-12-18"
+  },
+
+  {
+    "name": "Set de Geometría Profesional",
+    "description": "Reglas y escuadras para dibujo técnico.",
+    "price": 35000,
+    "imgUrl": "https://www.mitrensito.com.co/wp-content/uploads/2025/02/kit-geometrico.jpg",
+    "emailUser": "laura@gmail.com",
+    "category": "Equipos Ingeniería",
+    "condition": 6,
+    "brand": "Staedtler",
+    "createdAt": "2024-09-20"
+  },
+
+  {
+    "name": "Libro Métodos Cuantitativos",
+    "description": "Libro de apoyo para ingeniería industrial.",
+    "price": 145000,
+    "imgUrl": "https://www.planetadelibros.com/usuaris/libros/fotos/6/original/9788480889407.jpg",
+    "emailUser": "ana@gmail.com",
+    "category": "Libros",
+    "condition": 8,
+    "brand": "McGraw-Hill",
+    "createdAt": "2025-01-14"
+  },
+
+  {
+    "name": "Estetoscopio Littmann Classic III",
+    "description": "Estetoscopio profesional para medicina.",
+    "price": 350000,
+    "imgUrl": "https://amedicalmarket.com/wp-content/uploads/2021/07/Image-7.jpg",
+    "emailUser": "christian09@gmail.com",
+    "category": "Equipos Ingeniería",
+    "condition": 8,
+    "brand": "Littmann",
+    "createdAt": "2025-01-30"
+  },
+
+  {
+    "name": "Impresora 3D FlashForge Creator Pro",
+    "description": "Impresora 3D avanzada de doble extrusión.",
+    "price": 3700000,
+    "imgUrl": "https://www.treatstock.com/static/uploads/printers/creator-pro-i-1-nobg-web.jpg",
+    "emailUser": "maria@gmail.com",
+    "category": "Impresoras 3D",
+    "condition": 8,
+    "brand": "FlashForge",
+    "createdAt": "2024-12-21"
+  },
+
+  {
+    "name": "Bata Médica Universitaria",
+    "description": "Bata básica para estudiantes de ciencias de la salud.",
+    "price": 90000,
+    "imgUrl": "https://m.media-amazon.com/images/I/51-4BgtB+nL._AC_UY1000_.jpg",
+    "emailUser": "ana@gmail.com",
+    "category": "Uniformes",
+    "condition": 5,
+    "brand": "MedicWear",
+    "createdAt": "2024-11-11"
+  },
+
+  {
+    "name": "Libro Química Chang",
+    "description": "Libro completo de química general.",
+    "price": 155000,
+    "imgUrl": "https://www.sanzytorres.es/static/img/portadas/9786071524218.jpg",
+    "emailUser": "laura@gmail.com",
+    "category": "Libros",
+    "condition": 8,
+    "brand": "McGraw-Hill",
+    "createdAt": "2024-09-29"
+  },
+
+  {
+    "name": "Kit de Seguridad Industrial",
+    "description": "Equipo básico para prácticas de campo.",
+    "price": 80000,
+    "imgUrl": "https://seguridadindustrialymedica.com/wp-content/uploads/2019/01/slider2-movil.jpg",
+    "emailUser": "christian09@gmail.com",
+    "category": "Equipos Ingeniería",
+    "condition": 6,
+    "brand": "SafetyPro",
+    "createdAt": "2025-02-03"
+  },
+
+  {
+    "name": "Laptop Acer Aspire 5",
+    "description": "Computador portátil adecuado para tareas universitarias.",
+    "price": 1900000,
+    "imgUrl": "https://m.media-amazon.com/images/I/71NGpuvDJgL._AC_SL1500_.jpg",
+    "emailUser": "ana@gmail.com",
+    "category": "Computadores",
+    "condition": 5,
+    "brand": "Acer",
+    "createdAt": "2024-12-09"
+  },
+
+  {
+    "name": "Libro Topografía Moderna",
+    "description": "Libro sobre métodos topográficos actuales.",
+    "price": 150000,
+    "imgUrl": "https://isbnmexico.indautor.cerlalc.org/files/titulos/407953.jpg",
+    "emailUser": "maria@gmail.com",
+    "category": "Libros",
+    "condition": 7,
+    "brand": "Pearson",
+    "createdAt": "2024-10-27"
+  },
+
+  {
+    "name": "Calculadora Casio FX-350MS",
+    "description": "Calculadora científica para estadística básica.",
+    "price": 75000,
+    "imgUrl": "https://m.media-amazon.com/images/I/61SB7uu1urL._AC_UF894,1000_QL80_.jpg",
+    "emailUser": "laura@gmail.com",
+    "category": "Calculadoras",
+    "condition": 6,
+    "brand": "Casio",
+    "createdAt": "2025-01-27"
+  },
+
+  {
+    "name": "Uniforme Clínico Verde",
+    "description": "Uniforme cómodo para estudiantes de enfermería.",
+    "price": 110000,
+    "imgUrl": "https://m.media-amazon.com/images/I/41tFp7idwtL._AC_UY1000_.jpg",
+    "emailUser": "christian09@gmail.com",
+    "category": "Uniformes",
+    "condition": 7,
+    "brand": "MedicWear",
+    "createdAt": "2024-11-16"
+  },
+
+  {
+    "name": "Libro Python Crash Course",
+    "description": "Libro para aprender Python desde cero.",
+    "price": 130000,
+    "imgUrl": "https://images.cdn2.buscalibre.com/fit-in/360x360/a0/52/a05259f5126dc446d82a467a1d8ec26c.jpg",
+    "emailUser": "maria@gmail.com",
+    "category": "Libros",
+    "condition": 8,
+    "brand": "No Starch Press",
+    "createdAt": "2025-02-09"
+  },
+
+  {
+    "name": "Laptop MSI Modern i7",
+    "description": "Laptop potente para modelado 3D y simulaciones.",
+    "price": 4000000,
+    "imgUrl": "https://m.media-amazon.com/images/I/61p0IhsI-sL._AC_UF894,1000_QL80_.jpg",
+    "emailUser": "ana@gmail.com",
+    "category": "Computadores",
+    "condition": 8,
+    "brand": "MSI",
+    "createdAt": "2024-12-15"
+  },
+
+  {
+    "name": "Impresora 3D Artillery Genius",
+    "description": "Equipo de impresión 3D preciso y rápido.",
+    "price": 1700000,
+    "imgUrl": "https://m.media-amazon.com/images/I/61sswBYIlSL._AC_UF894,1000_QL80_.jpg",
+    "emailUser": "laura@gmail.com",
+    "category": "Impresoras 3D",
+    "condition": 7,
+    "brand": "Artillery",
+    "createdAt": "2025-01-29"
+  },
+
+  {
+    "name": "Libro Gestión de Producción",
+    "description": "Libro para ingeniería industrial y procesos.",
+    "price": 145000,
+    "imgUrl": "https://images.cdn3.buscalibre.com/fit-in/360x360/80/7d/807dfc5c3d1910f719f29059314f0bc8.jpg",
+    "emailUser": "ana@gmail.com",
+    "category": "Libros",
+    "condition": 8,
+    "brand": "Pearson",
+    "createdAt": "2024-10-03"
+  },
+
+  {
+    "name": "Kit de Herramientas Mecánicas",
+    "description": "Herramientas básicas para prácticas de mecánica.",
+    "price": 180000,
+    "imgUrl": "https://m.media-amazon.com/images/I/71ybHfSBH-L._AC_UF894,1000_QL80_.jpg",
+    "emailUser": "christian09@gmail.com",
+    "category": "Equipos Ingeniería",
+    "condition": 7,
+    "brand": "ToolMax",
+    "createdAt": "2024-12-28"
+  },
+
+  {
+    "name": "Libro Ecuaciones Diferenciales - Zill",
+    "description": "Libro de ecuaciones diferenciales para ingeniería.",
+    "price": 155000,
+    "imgUrl": "https://m.media-amazon.com/images/I/81Kcrl4FjIL._AC_UF1000,1000_QL80_.jpg",
+    "emailUser": "maria@gmail.com",
+    "category": "Libros",
+    "condition": 8,
+    "brand": "Cengage",
+    "createdAt": "2024-11-04"
+  },
+
+  {
+    "name": "Estetoscopio Básico",
+    "description": "Estetoscopio económico para primeros semestres.",
+    "price": 85000,
+    "imgUrl": "https://m.media-amazon.com/images/I/5127SgO-wmL._AC_UF1000,1000_QL80_.jpg",
+    "emailUser": "laura@gmail.com",
+    "category": "Equipos Ingeniería",
+    "condition": 6,
+    "brand": "MedBasic",
+    "createdAt": "2024-10-14"
+  },
+
+  {
+    "name": "Kit de Electrónica DIY",
+    "description": "Kit con componentes electrónicos básicos.",
+    "price": 65000,
+    "imgUrl": "https://www.valejat.com/wp-content/uploads/2023/08/kit-basica-1.png",
+    "emailUser": "ana@gmail.com",
+    "category": "Equipos Ingeniería",
+    "condition": 6,
+    "brand": "DIYTech",
+    "createdAt": "2024-11-09"
+  },
+
+  {
+    "name": "Raspberry Pi 4 8GB",
+    "description": "Tarjeta de desarrollo para proyectos avanzados.",
+    "price": 360000,
+    "imgUrl": "https://www.kubii.com/9710-large_default/raspberry-pi-4-modelo-b-8gb.jpg",
+    "emailUser": "christian09@gmail.com",
+    "category": "Equipos Ingeniería",
+    "condition": 8,
+    "brand": "Raspberry Pi",
+    "createdAt": "2025-02-15"
+  },
+
+  {
+    "name": "Libro Bases de Datos - Elmasri",
+    "description": "Libro avanzado sobre diseño de bases de datos.",
+    "price": 170000,
+    "imgUrl": "https://m.media-amazon.com/images/I/A1plqjZnUCL._AC_UF1000,1000_QL80_.jpg",
+    "emailUser": "maria@gmail.com",
+    "category": "Libros",
+    "condition": 7,
+    "brand": "Pearson",
+    "createdAt": "2024-11-22"
+  },
+
+  {
+    "name": "Bata Laboratorio Estudiante",
+    "description": "Bata básica para laboratorios universitarios.",
+    "price": 95000,
+    "imgUrl": "https://m.media-amazon.com/images/I/71p0k0A0n9L._AC_UY1000_.jpg",
+    "emailUser": "laura@gmail.com",
+    "category": "Uniformes",
+    "condition": 6,
+    "brand": "LabProtect",
+    "createdAt": "2025-01-16"
+  },
+
+  {
+    "name": "Laptop MacBook Air M1",
+    "description": "Equipo ideal para diseño, edición y programación.",
+    "price": 4300000,
+    "imgUrl": "https://itechcolombia.co/wp-content/uploads/2022/05/refurb-macbook-air-gold-m1-202010.jpg",
+    "emailUser": "ana@gmail.com",
+    "category": "Computadores",
+    "condition": 9,
+    "brand": "Apple",
+    "createdAt": "2025-01-31"
+  }
+]
+
